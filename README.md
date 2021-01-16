@@ -1,0 +1,2 @@
+# COSI123A-HW4-Build-Regression-Model
+There are 10 data sets (5 in folder a and 5  in fold b) in the attached zip file. Each data set has a training subset (for example, ‘Train_1a.csv’) and a test subset (for example, ‘Train_1a.csv’).  Build a regression model using the training subset and apply the model to the test subset. Each row in a data file is a sample. The training data files contain the desired outputs. 
